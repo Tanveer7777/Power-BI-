@@ -217,19 +217,13 @@ Analyzes customer acquisition channels and marketing performance.
 ```
 📦 End-to-End-Ecommerce-Analytics
 │
-├── Dataset
-│   └── ecommerce_orders_dataset.xlsx
+├──ecommerce_orders_dataset.xlsx 
+│  
 │
-├── Power BI Dashboard
-│   └── Ecommerce_Analytics_Dashboard.pbix
+├── Final_Project.pbix
+│   
 │
-├── Dashboard Screenshots
-│   ├── Executive Overview Dashboard.png
-│   ├── Customer Analytics Dashboard.png
-│   ├── Product Performance Dashboard.png
-│   └── Marketing & Channel Performance Dashboard.png
-│
-└── README.md
+├── README.md
 ```
 
 ---
